@@ -1,18 +1,10 @@
 {
     "message": "哈哈哈",
     "rCode": 0,
-    "data": [
-        {
-            "createdAt": "2024-12-03T00:16:57.205Z",
+    "data": {
+         "createdAt": "2024-12-03T00:16:57.205Z",
             "name": "Mr. Thelma Daugherty",
             "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/519.jpg",
             "id": "1"
-        },
-        {
-            "createdAt": "2024-12-03T02:38:00.577Z",
-            "name": "Arthur Koss",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1068.jpg",
-            "id": "2"
-        }
-    ]
+    }
 }
