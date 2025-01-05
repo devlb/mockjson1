@@ -3,11 +3,7 @@
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  ], 
   "profile": {
     "name": "typicode"
   },
@@ -37,42 +33,6 @@
             "name": "Sue Rowe",
             "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/993.jpg",
             "id": "4"
-        },
-        {
-            "createdAt": "2024-12-03T02:00:45.013Z",
-            "name": "Marilyn Wolff",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1249.jpg",
-            "id": "5"
-        },
-        {
-            "createdAt": "2024-12-03T00:19:09.873Z",
-            "name": "Tabitha Kirlin",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/586.jpg",
-            "id": "6"
-        },
-        {
-            "createdAt": "2024-12-02T21:54:06.811Z",
-            "name": "Ms. Angel Zieme",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/539.jpg",
-            "id": "7"
-        },
-        {
-            "createdAt": "2024-12-03T07:25:42.671Z",
-            "name": "Jamie Wolff",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/943.jpg",
-            "id": "8"
-        },
-        {
-            "createdAt": "2024-12-02T15:21:13.604Z",
-            "name": "Shelly Hauck",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/377.jpg",
-            "id": "9"
-        },
-        {
-            "createdAt": "2024-12-02T09:44:47.901Z",
-            "name": "Johnny Deckow",
-            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/839.jpg",
-            "id": "10"
         }
     ]
 }
